@@ -93,7 +93,7 @@ Open `http://localhost:3000` in your browser.
 
 ## Deployment
 
-Deployment Link : https://voicetotext-git-main-pes2ug22cs128s-projects.vercel.app
+Deployment Link : https://voicetotext-git-main-pes2ug22cs128s-projects.vercel.app?_vercel_share=MbkEtTlwEtYkIs6ho82hpLLDk2GqqYqn
 
 
 ##  Author
@@ -101,6 +101,7 @@ Deployment Link : https://voicetotext-git-main-pes2ug22cs128s-projects.vercel.ap
 **Bhavana Prakash Talavar**
 
 * GitHub: [https://github.com/bhavana9635](https://github.com/bhavana9635)
+
 
 
 
