@@ -11,7 +11,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Voice Flow - Real-Time Voice to Text",
   description: "Real-time voice-to-text transcription powered by Web Speech API",
-  generator: "v0.app",
   icons: {
     icon: [
       {

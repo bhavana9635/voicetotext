@@ -67,7 +67,7 @@ export default function VoiceToTextApp() {
               })
             }
           } catch (error) {
-            console.error("[v0] Error transcribing:", error)
+            console.error(" Error transcribing:", error)
             toast({
               title: "Transcription Failed",
               description: "Failed to transcribe audio",
@@ -91,7 +91,7 @@ export default function VoiceToTextApp() {
         description: "Speak clearly into your microphone",
       })
     } catch (error) {
-      console.error("[v0] Error accessing microphone:", error)
+      console.error(" Error accessing microphone:", error)
       toast({
         title: "Microphone Access Denied",
         description: "Please allow microphone access to use voice input",
