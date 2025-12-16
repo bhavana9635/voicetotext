@@ -10,7 +10,6 @@ A modern **Voice-to-Text (Speech-to-Text)** web application built with **Next.js
 *  Copy and download transcribed text
 *  Clean, responsive UI with Tailwind CSS & shadcn/ui
 *  Secure API handling (API key stays on server)
----
 
 ##  Tech Stack
 
@@ -27,7 +26,6 @@ A modern **Voice-to-Text (Speech-to-Text)** web application built with **Next.js
 
 * **Next.js API Routes** – Serverless backend
 * **Deepgram API** – Speech-to-text AI (Nova-2)
----
 
 ## How It Works
 
@@ -39,7 +37,6 @@ A modern **Voice-to-Text (Speech-to-Text)** web application built with **Next.js
 6. Server forwards audio to Deepgram API
 7. Deepgram processes and returns transcribed text
 8. Text is displayed in the UI with copy/download options
----
 
 ## Project Structure
 
@@ -57,7 +54,6 @@ voicetotext/
 ├── package.json
 └── README.md
 ```
---
 
 ##  Environment Variables
 
@@ -69,7 +65,6 @@ DEEPGRAM_API_KEY=your_deepgram_api_key_here
 
 Never expose your API key on the client side.
 
----
 
 ##  Getting Started
 
@@ -96,20 +91,16 @@ npm run dev
 
 Open `http://localhost:3000` in your browser.
 
----
-
 ## Deployment
 
 Deployment Link : https://voicetotext-git-main-pes2ug22cs128s-projects.vercel.app
 
----
 
 ##  Author
 
 **Bhavana Prakash Talavar**
 
 * GitHub: [https://github.com/bhavana9635](https://github.com/bhavana9635)
----
 
 
 
